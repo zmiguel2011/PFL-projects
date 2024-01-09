@@ -1,6 +1,6 @@
 [submodule "PFL-TP1"]
 	path = PFL-TP1
-	url = ../PFL-TP1/
+	url = /PFL-TP1/
 [submodule "PFL-TP2"]
 	path = PFL-TP2
-	url = ../PFL-TP2/
+	url = /PFL-TP2/
