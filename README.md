@@ -10,7 +10,7 @@
 **Authors**: José Miguel Isidro, José António Costa
 
 
-## [Seconds Project](/PFL-TP2/README.md)
+## [Second Project](/PFL-TP2/README.md)
 
 `A source-to-source compiler and low-level assembler written in Haskell.`
 
