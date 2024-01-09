@@ -1,7 +1,7 @@
 # PFL-projects
 `Projects developed as part of a PFL (Functional and Logic Programming) course @FEUP`
 
-## First Project
+## [First Project](/PFL-TP1/README.md)
 
 `A text-based board game made with SISCTUS Prolog.`
 
@@ -10,4 +10,10 @@
 **Authors**: José Miguel Isidro, José António Costa
 
 
-## Second Project
+## [Seconds Project](/PFL-TP2/README.md)
+
+`A source-to-source compiler and low-level assembler written in Haskell.`
+
+- This project consists of a transpiler (source-to-source compiler) and assembler written in Haskell.
+
+**Authors**: José Miguel Isidro, José António Costa
