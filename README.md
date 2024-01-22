@@ -7,7 +7,7 @@
 
 - **Claustro** is an abstract board game with 3 simple rules (Goal, Move and Capture). The game is played in a square diamond shaped board with the opposing upper corner and lower corner being the green and blue goals, respectively, and the other two opposing left and right corners, being unoccupiable squares.
 
-**Authors**: José Miguel Isidro, José António Costa
+**Authors**: José Miguel Isidro, José António Costa\
 **Final Grade: 18.5**
 
 ## [Second Project](https://github.com/zmiguel2011/PFL-TP2)
@@ -16,5 +16,5 @@
 
 - This project consists of a transpiler (source-to-source compiler) and assembler written in Haskell.
 
-**Authors**: José Miguel Isidro, José António Costa
+**Authors**: José Miguel Isidro, José António Costa\
 **Final Grade: 19.2**
